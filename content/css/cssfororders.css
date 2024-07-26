@@ -1,0 +1,47 @@
+h2 {
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button a {
+  text-decoration: none;
+  color: white;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+form select, form button {
+  margin-top: 10px;
+}
+
+p.success {
+  color: green;
+}
+
+p.error {
+  color: red;
+}
